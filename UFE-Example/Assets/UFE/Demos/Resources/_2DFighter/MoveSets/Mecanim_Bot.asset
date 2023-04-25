@@ -21,7 +21,7 @@ MonoBehaviour:
     idle:
       animMap:
       - animationMaps: []
-        clip: {fileID: 7400000, guid: aca2b3bb35939334e8465c428be27e8c, type: 3}
+        clip: {fileID: 7400000, guid: 0f541e3c025ad50478da6d298457d9c1, type: 2}
         customHitBoxDefinition: {fileID: 0}
         length:
           _serializedValue: 10558461952
@@ -101,12 +101,12 @@ MonoBehaviour:
         hitBoxDefinitionIndex: 0
       reference: 0
       name: idle
-      editorToggle: 0
+      editorToggle: 1
       soundEffectsToggle: 0
     moveForward:
       animMap:
       - animationMaps: []
-        clip: {fileID: 7400000, guid: 2893b98ba9e856c4988eea39fe724b23, type: 3}
+        clip: {fileID: 7400000, guid: aa3ed2eacfebcc64386eb624dfb8f07f, type: 2}
         customHitBoxDefinition: {fileID: 0}
         length:
           _serializedValue: 3579139584
@@ -186,12 +186,12 @@ MonoBehaviour:
         hitBoxDefinitionIndex: 0
       reference: 1
       name: moveForward
-      editorToggle: 0
+      editorToggle: 1
       soundEffectsToggle: 0
     moveBack:
       animMap:
       - animationMaps: []
-        clip: {fileID: 7400000, guid: 54c77c98019150c478f0aeedff1c402c, type: 3}
+        clip: {fileID: 7400000, guid: f9d08700aff04e64684595e75eb7fadb, type: 2}
         customHitBoxDefinition: {fileID: 0}
         length:
           _serializedValue: 3579139584
@@ -271,7 +271,7 @@ MonoBehaviour:
         hitBoxDefinitionIndex: 0
       reference: 2
       name: moveBack
-      editorToggle: 0
+      editorToggle: 1
       soundEffectsToggle: 0
     moveSideways:
       animMap:
@@ -552,7 +552,7 @@ MonoBehaviour:
     jumpStraight:
       animMap:
       - animationMaps: []
-        clip: {fileID: 7400000, guid: 4048fa383bce08746b0f80f57f8b6149, type: 3}
+        clip: {fileID: 7400000, guid: 3e34d041935c1654f9d4372ee6f7d064, type: 2}
         customHitBoxDefinition: {fileID: 0}
         length:
           _serializedValue: 178956976
@@ -807,7 +807,7 @@ MonoBehaviour:
     fallStraight:
       animMap:
       - animationMaps: []
-        clip: {fileID: 7400000, guid: 28088179563f16949bb8d5ee4b38e757, type: 3}
+        clip: {fileID: 7400000, guid: deeb40b5f7440c047a84f799c13c158a, type: 2}
         customHitBoxDefinition: {fileID: 0}
         length:
           _serializedValue: 536870912

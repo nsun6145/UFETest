@@ -4810,10 +4810,10 @@ MonoBehaviour:
           _serializedValue: -10041159
         z:
           _serializedValue: 0
-    clip: {fileID: 7400000, guid: 04892199dbb9d0445bce3e6be184df3a, type: 3}
+    clip: {fileID: 7400000, guid: eac53de7be451dd48b3bd64e77f7c492, type: 2}
     customHitBoxDefinition: {fileID: 0}
     length:
-      _serializedValue: 2505397760
+      _serializedValue: 8589934592
     bakeSpeed: 1
     hitBoxDefinitionType: 0
   _animationSpeed:
@@ -4840,7 +4840,7 @@ MonoBehaviour:
   speedKeyFrameToggle: 0
   fixedSpeed: 1
   animSpeedKeyFrame: []
-  totalFrames: 35
+  totalFrames: 120
   startUpFrames: 16
   activeFrames: 5
   recoveryFrames: 14
