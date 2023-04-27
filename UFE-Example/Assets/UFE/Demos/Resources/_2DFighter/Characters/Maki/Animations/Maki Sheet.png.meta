@@ -1,0 +1,1660 @@
+fileFormatVersion: 2
+guid: 4398ab8fc07df554190d5f41705a65ca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maki Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1902
+        width: 338
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfeb132f2b1e442b140a7e20861d3c
+      internalID: 997174694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1907
+        width: 196
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a15031796b751409c016346d73dbc4
+      internalID: 1602908836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1904
+        width: 196
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613d79a0a6671994b978d0a9711a67ef
+      internalID: -1742569244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1902
+        width: 242
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccd517c0309965489127fbb23a7a3cc
+      internalID: 283554490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1902
+        width: 243
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8967bbdb03806e46951c42b6132e906
+      internalID: 567517327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1902
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b354b986376954492740e04eadfa9e
+      internalID: -929017263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1902
+        width: 244
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd82b88e1bc36e4c9068b150af31e21
+      internalID: 1221788540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1973
+        width: 172
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ef1b4a31ae06d48a0649271d91f092
+      internalID: -684795327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1973
+        width: 172
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3247252d968404e93f5cd616ad5a0c
+      internalID: 1577108480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1972
+        width: 172
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f505a94945f44ebebbbf01e003dc8
+      internalID: 524790043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 2046
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b07625a90480d44aa7084a21fda442
+      internalID: 87103787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1902
+        width: 170
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773422f47e4b2704a889abf8ed1c7f6d
+      internalID: 526529184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1898
+        width: 116
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48323cf979e71664db29b81595194ca1
+      internalID: 872177131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 1905
+        width: 117
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da57008a8d512384293008b10c2bbd61
+      internalID: -50685117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 1563
+        width: 177
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57226906ae0e734f9e3ad96297fffb1
+      internalID: 1020321517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1954
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57fd9572a9eb8b42a326fa4a94939b0
+      internalID: 1189274505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1526
+        width: 164
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2613beef7da9cc445b463122541c6847
+      internalID: 235442697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1509
+        width: 248
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a3d3f5bde7299469dd10b1306eec00
+      internalID: -23198292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1505
+        width: 293
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ecfdcd28423234d94d3f687445880c
+      internalID: 981210533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1509
+        width: 287
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c0994424a0294a872cdbbb2ef690e
+      internalID: -715597636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1509
+        width: 287
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acb34bfbfa8bb24d9f6285e22b7ee7b
+      internalID: 1529956920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1509
+        width: 284
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcce36c453046b4780d920f4962a051
+      internalID: 1227121178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1507
+        width: 264
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482cebe9974313749a94847b80c6c5f6
+      internalID: 1331565896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1507
+        width: 503
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bb9b68604345d49953a5a7e54559e2
+      internalID: -1615708859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 1823
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa3e40ba1a1cfd40ae99664a9b7651c
+      internalID: 964645296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1526
+        width: 114
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab429707f58c26d4f8751f843ea2aa3d
+      internalID: -1881370515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1802
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00861639fdaff44dad08d4d7f52ce3e
+      internalID: 495199598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1507
+        width: 248
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e22c3306dd13945bcfd947868c043b
+      internalID: 1653304116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1106
+        width: 218
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252a726602cc6e440b2e54336f32c063
+      internalID: -1512807300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1107
+        width: 252
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e119d1bb7799c8442926bf68085ed165
+      internalID: -1618312093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1107
+        width: 252
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c248e5cbc314edd40b3c1d98c9ecef0d
+      internalID: 1175728236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1123
+        width: 447
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206f19179f1b6154db79a14264e64d90
+      internalID: -1831054028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1125
+        width: 429
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7102a17677d1fd741914aa03e9a855b8
+      internalID: 1608760711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 693
+        width: 176
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d5a7dabc901874d8abdc25a24536d0
+      internalID: 495341514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 671
+        width: 158
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02da603e21982c468335de84edf7f44
+      internalID: 620812226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 616
+        width: 189
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9280f512337bf5c428c0153691b3e1af
+      internalID: -1642193435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1144
+        width: 201
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c007a9117243634c8f6d569254edb25
+      internalID: -1702052191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 1144
+        width: 262
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5017b92e2a6670e4389699322bacecb6
+      internalID: -1707199866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 1144
+        width: 262
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97bacf6cc7eafe49aa6b0f5302a9802
+      internalID: 849481836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 195
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0194306ec51761342a18b3e1240bb5e7
+      internalID: -922776860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 962
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c33b1783d02e34a8dace2d31b7e2b7
+      internalID: 270494966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 669
+        width: 190
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7a9093a9310324c8ec9ea627a5be7a
+      internalID: 446177079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 671
+        width: 271
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c529ba082280445458c2cd8f286d69de
+      internalID: 1922196245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 605
+        width: 190
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643e29eb2f5773c4a9a524f5275456f5
+      internalID: -824849748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 891
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36891db3921fd384bbf7d9e7c919d5a6
+      internalID: 488784533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 663
+        width: 176
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680369982d046434abc10e891f6a931b
+      internalID: 1561707311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 663
+        width: 173
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c6b6d39e251543a276a98cbbf2701
+      internalID: -2141266509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 663
+        width: 252
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01030b9d1d910f44be0a92f32a3145a
+      internalID: -49907469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 596
+        width: 205
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c24ca2cb60d5546baf9fc41287cf72
+      internalID: 1990077198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 654
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257b8bf61c1adf5499d420bf0a64e626
+      internalID: -1004249634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 356
+        width: 478
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2bd889bab125b46b202cb97e00add3
+      internalID: 1780058734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 351
+        width: 328
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5772e944d2c12034d918ba2f612c9137
+      internalID: -486582037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 360
+        width: 187
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ab68037b928c341b45690b46488970
+      internalID: 1217009235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 618
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd6cc1d11897ae4482616b701b93fa4
+      internalID: 1668032808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 618
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd33af8d03ea55b4b836ba40c15bf4ce
+      internalID: 849014528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 359
+        width: 147
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd31483a26b3e5c42b42e97f96937b8b
+      internalID: 511172614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 366
+        width: 204
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49764ef457ba7b440ab545d3ffbd469f
+      internalID: 1376134150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 594
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915b7f4a105bb034eb5aa69a9b1eb9e8
+      internalID: 1966305147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 362
+        width: 144
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c556478ecf9d4eb59641c67a71e23
+      internalID: 2079975216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 364
+        width: 181
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb1b925885fadd42ba976eba30fb16f
+      internalID: -1630886194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 366
+        width: 177
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f26bd8265802af4ab02a7fe9814ddd0
+      internalID: -364453308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 366
+        width: 180
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9f74d5665cb334496ec2441cd0aadd
+      internalID: -2057205618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 366
+        width: 171
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fac50af502b3cf4096809cece202b29
+      internalID: 893713217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 195
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6e54fa9a7734f4b97a4b59e33ec328
+      internalID: 614945809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 264
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276ecb4440057084d9e541ce2d5286a4
+      internalID: -18694467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 42
+        width: 237
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b10714aac789549861ecd487815aeb
+      internalID: -832857647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 55
+        width: 193
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938296cddec82842a880fefa832c0fa
+      internalID: -1195875367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 51
+        width: 217
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c2747ab9a981f498ff9b9333afd0d5
+      internalID: 995329561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 61
+        width: 233
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f265655b5c5c25540bd485d30956a82f
+      internalID: -1773811626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 78
+        width: 231
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94aa0c0eff97ac4685fd2d503a3dd3b
+      internalID: -705472375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maki Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 89
+        width: 227
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932b25266d7acaa43ac5aff1ede2c55e
+      internalID: -1640252294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d8b480dd624e44541beab4d8783f321d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Maki Sheet_0: 997174694
+      Maki Sheet_6: 1221788540
+      Maki Sheet_61: -2057205618
+      Maki Sheet_20: 1529956920
+      Maki Sheet_31: -1831054028
+      Maki Sheet_5: -929017263
+      Maki Sheet_54: 849014528
+      Maki Sheet_18: 981210533
+      Maki Sheet_42: 1922196245
+      Maki Sheet_36: -1702052191
+      Maki Sheet_38: 849481836
+      Maki Sheet_48: 1990077198
+      Maki Sheet_33: 495341514
+      Maki Sheet_9: 524790043
+      Maki Sheet_7: -684795327
+      Maki Sheet_13: -50685117
+      Maki Sheet_55: 511172614
+      Maki Sheet_34: 620812226
+      Maki Sheet_2: -1742569244
+      Maki Sheet_29: -1618312093
+      Maki Sheet_8: 1577108480
+      Maki Sheet_66: -1195875367
+      Maki Sheet_17: -23198292
+      Maki Sheet_22: 1331565896
+      Maki Sheet_51: -486582037
+      Maki Sheet_69: -705472375
+      Maki Sheet_49: -1004249634
+      Maki Sheet_60: -364453308
+      Maki Sheet_41: 446177079
+      Maki Sheet_25: -1881370515
+      Maki Sheet_50: 1780058734
+      Maki Sheet_58: 2079975216
+      Maki Sheet_45: 1561707311
+      Maki Sheet_44: 488784533
+      Maki Sheet_23: -1615708859
+      Maki Sheet_65: -832857647
+      Maki Sheet_21: 1227121178
+      Maki Sheet_40: 270494966
+      Maki Sheet_53: 1668032808
+      Maki Sheet_56: 1376134150
+      Maki Sheet_43: -824849748
+      Maki Sheet_39: -922776860
+      Maki Sheet_68: -1773811626
+      Maki Sheet_59: -1630886194
+      Maki Sheet_27: 1653304116
+      Maki Sheet_14: 1020321517
+      Maki Sheet_62: 893713217
+      Maki Sheet_32: 1608760711
+      Maki Sheet_11: 526529184
+      Maki Sheet_35: -1642193435
+      Maki Sheet_46: -2141266509
+      Maki Sheet_52: 1217009235
+      Maki Sheet_15: 1189274505
+      Maki Sheet_37: -1707199866
+      Maki Sheet_64: -18694467
+      Maki Sheet_16: 235442697
+      Maki Sheet_70: -1640252294
+      Maki Sheet_28: -1512807300
+      Maki Sheet_4: 567517327
+      Maki Sheet_30: 1175728236
+      Maki Sheet_19: -715597636
+      Maki Sheet_63: 614945809
+      Maki Sheet_24: 964645296
+      Maki Sheet_1: 1602908836
+      Maki Sheet_10: 87103787
+      Maki Sheet_57: 1966305147
+      Maki Sheet_26: 495199598
+      Maki Sheet_67: 995329561
+      Maki Sheet_3: 283554490
+      Maki Sheet_47: -49907469
+      Maki Sheet_12: 872177131
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
