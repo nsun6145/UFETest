@@ -15,7 +15,7 @@ MonoBehaviour:
   gameplayType: 0
   profilePictureSmall: {fileID: 0}
   profilePictureBig: {fileID: 0}
-  characterName: 
+  characterName: Maki
   gender: 0
   characterDescription: 
   selectionAnimation: {fileID: 0}
@@ -27,7 +27,8 @@ MonoBehaviour:
   lifePoints: 1000
   maxGaugePoints: 0
   characterPrefabStorage: 0
-  characterPrefab: {fileID: 0}
+  characterPrefab: {fileID: 1162607263931506742, guid: ee626c374c054ca46b2204828768d4f3,
+    type: 3}
   prefabResourcePath: 
   alternativeCostumes: []
   initialPosition:
@@ -96,7 +97,7 @@ MonoBehaviour:
     crouchButton: 3
   hideGauges: 00000000000000000000
   _executionTiming:
-    _serializedValue: 1288490188
+    _serializedValue: 1288490240
   possibleAirMoves: 1
   _blendingTime:
     _serializedValue: 429496729
